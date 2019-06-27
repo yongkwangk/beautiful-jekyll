@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Yongkwang Kim 
+title: Yongkwang Kim
 subtitle: PhD Candidate, University of Houston
 use-site-title: true
 bigimg:

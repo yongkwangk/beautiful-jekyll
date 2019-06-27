@@ -16,7 +16,7 @@ An Improved Question Format for Measuring Conspiracy Beliefs, Invited to revise 
 
 Misperception, Ignorance, and Partisan Ambivalence (with Scott Basinger)
 
-The effect of government conspiracy belief on political engagement Voting machine conspiracy: Election integrity and information seeking and sharing
+The effect of government conspiracy belief on political engagement Voting machine conspiracy: Election integrity, information seeking and sharing
 
 The Life Span of Government Conspiracy Theories: Is Belief in Conspiracy Theories Steadfast or Fluid?
 

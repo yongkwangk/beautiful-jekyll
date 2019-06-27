@@ -11,7 +11,7 @@ description: Yongkwang Kim Website
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "https://yongkwangk.com"
+url: "https://yongkwangk.github.io"
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -68,11 +68,11 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+# rss: true
+  email: "adamk.summa@gmail.com"
+# facebook: deanattali
+# github: daattali
+  twitter: theykkim
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -87,10 +87,10 @@ social-network-links:
 #  yelp: yourname
 
 # Select which share links to show in posts
-share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+# share-links-active:
+# twitter: true
+# facebook: true
+# linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer

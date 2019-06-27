@@ -10,7 +10,7 @@ bigimg: "/img/weimar.jpg"
 Kim, Yongkwang. 2019. "How Conspiracy Theories Can Stimulate Political Engagement", Accepted. *Journal of Elections,
 Public Opinion & Parties*.
 
-# Work in Progress
+# Working Papers
 
 An Improved Question Format for Measuring Conspiracy Beliefs, Invited to revise and resubmit to *Public Opinion Quarterly* (with Scott Clifford and Brian Sullivan).
 

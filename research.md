@@ -8,7 +8,7 @@ bigimg: "/img/weimar.jpg"
 # Articles
 
 Kim, Yongkwang. 2019. "How Conspiracy Theories Can Stimulate Political Engagement", *Journal of Elections,
-Public Opinion & Parties* 
+Public Opinion & Parties*. 
 [[Link]](https://doi.org/10.1080/17457289.2019.1651321)
 
 

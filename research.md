@@ -13,7 +13,7 @@ https://doi.org/10.1080/17457289.2019.1651321
 
 # Working Papers
 
-An Improved Question Format for Measuring Conspiracy Beliefs, Invited to revise and resubmit to *Public Opinion Quarterly* (with Scott Clifford and Brian Sullivan)
+An Improved Question Format for Measuring Conspiracy Beliefs, Accepted. *Public Opinion Quarterly* (with Scott Clifford and Brian Sullivan)
 
 Misperception, Ignorance, and Partisan Ambivalence (with Scott Basinger)
 

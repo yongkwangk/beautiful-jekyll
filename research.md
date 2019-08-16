@@ -5,16 +5,15 @@ use-mix-title: true
 description: List of articles, book chapters, working papers. Links to abstracts, Google Scholar, replication files, and Publons.
 bigimg: "/img/weimar.jpg"
 ---
-# Articles
+# Journal Articles
 
 Kim, Yongkwang. 2019. "How Conspiracy Theories Can Stimulate Political Engagement", *Journal of Elections,
 Public Opinion & Parties*. 
 [[Link]](https://doi.org/10.1080/17457289.2019.1651321)
 
+An Improved Question Format for Measuring Conspiracy Beliefs, Accepted. *Public Opinion Quarterly* (with Scott Clifford and Brian Sullivan)
 
 # Working Papers
-
-An Improved Question Format for Measuring Conspiracy Beliefs, Accepted. *Public Opinion Quarterly* (with Scott Clifford and Brian Sullivan)
 
 Misperception, Ignorance, and Partisan Ambivalence (with Scott Basinger)
 

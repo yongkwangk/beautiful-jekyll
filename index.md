@@ -6,9 +6,9 @@ use-site-title: true
 bigimg:
   - "/img/uh1.JPG": "U of H PGH"
   - "/img/uh2.JPG": "U of H Cullen"
-  - "/img/uh4.jpg": "Downtown Houston"
-  - "/img/uh5.jpg": "U of H Fountain"
-  - "/img/uh6.jpg": "U of H Cullen"
+  - "/img/uh4.JPG": "Downtown Houston"
+  - "/img/uh5.JPG": "U of H Fountain"
+  - "/img/uh6.JPG": "U of H Cullen"
 ---
 
 <img src="/img/kp7.jpg" class="wrap align-right" alt="k profile">

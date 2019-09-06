@@ -5,7 +5,7 @@ subtitle: PhD Candidate, University of Houston
 use-site-title: true
 bigimg:
   - "/img/HD.jpg": "Downtown Houston"
-  - "/img/HHD2": "Herman Park"
+  - "/img/HHP2": "Herman Park"
   - "/img/uh1.JPG": "U of H PGH"
   - "/img/uh2.JPG": "U of H Cullen"
   - "/img/DH.jpg": "Downtown Houston"

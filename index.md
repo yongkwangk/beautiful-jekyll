@@ -4,8 +4,8 @@ title: Yongkwang Kim
 subtitle: PhD Candidate, University of Houston
 use-site-title: true
 bigimg:
-  - "/img/Downtown Houston 2.jpg": "Downtown Houston1"
-  - "/img/Houston Herman Park.jpg": "Herman Park"
+  - "/img/HD.jpg": "Downtown Houston"
+  - "/img/HHD 2": "Herman Park"
   - "/img/uh1.JPG": "U of H PGH"
   - "/img/uh2.JPG": "U of H Cullen"
   - "/img/DH.jpg": "Downtown Houston"

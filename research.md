@@ -18,8 +18,6 @@ Misperception, Ignorance, and Partisan Ambivalence (with Scott Basinger)
 
 Re-interpreting "don't know" and scale midpoint responses in conspiracy beliefs (with Scott Clifford and Brian Sullivan)
 
-The effect of government conspiracy belief on political engagement 
-
 Voting machine conspiracy: Election integrity, information seeking and sharing
 
 The Life Span of Government Conspiracy Theories: Is Belief in Conspiracy Theories Steadfast or Fluid?

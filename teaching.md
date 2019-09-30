@@ -9,10 +9,10 @@ bigimg: "/img/washu1.jpg"
 ### University of Houston
 #### Instructor of Record
 * POLS 3312 Introduction to Research Methods in Political Science
-  * Fall 2019, Summer 2018
+  * Spring 2020, Fall 2019, Summer 2018
   * <a href="https://yongkwangk.github.io/files/Kim_U of H course evaluation.pdf" target="_blank">[Teaching Evaluation]</a>
 * POLS 3316 Statistics for Political Analysis
-  * Fall 2019
+  * Spring 2020, Fall 2019
   
 #### Laboratory Instructor
 * POLS 6481 Quantitative Methods II 

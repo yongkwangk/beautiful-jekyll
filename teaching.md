@@ -15,7 +15,7 @@ bigimg: "/img/washu1.jpg"
    
 * POLS 3316 Statistics for Political Analysis
   * Spring 2020
-  * Fall 2019 <a href="https://yongkwangk.github.io/files/3316 2019 kim.pdf" target="_blank">[Teaching Evaluation Fall 2019]</a>
+  * Fall 2019 <a href="https://yongkwangk.github.io/files/3316 2019 kim.pdf" target="_blank">[Teaching Evaluation]</a>
   
 #### Laboratory Instructor
 * POLS 6481 Quantitative Methods II 

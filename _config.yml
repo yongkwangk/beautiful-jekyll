@@ -90,7 +90,7 @@ social-network-links:
 footer-links-active:
   email: true
   twitter: true
-  google-plus: true
+  #google-plus: true
  
 
 

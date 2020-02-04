@@ -88,21 +88,10 @@ social-network-links:
 #  yelp: yourname
 
 footer-links-active:
-  #rss: false
-  #facebook: false
   email: true
   twitter: true
   google-plus: true
-  #github: false
-  #reddit: false
-  #linkedin: false
-  #xing: false
-  #stackoverflow: false
-  #snapchat: false
-  #instagram: false
-  #youtube: false
-  #spotify: false
-  #telephone: false
+ 
 
 
 # Select which share links to show in posts

@@ -62,17 +62,15 @@ navbar-links:
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Yongkwang Kim
-  email: "adamk.summa@gmail.com"
-  twitter: Yongkwangk
-  google-plus: PwDpxtEAAAAJ
+  
    
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
-#social-network-links:
- #email: "adamk.summa@gmail.com"
- #twitter: Yongkwangk
+social-network-links:
+ email: "adamk.summa@gmail.com"
+ twitter: Yongkwangk
  #google-plus: PwDpxtEAAAAJ
 # rss: true
 # facebook: deanattali
@@ -93,7 +91,7 @@ author:
 footer-links-active:
   email: true
   twitter: true
-  google-plus: true
+  #google-plus: true
  
 
 

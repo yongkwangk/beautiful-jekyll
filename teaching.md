@@ -14,7 +14,7 @@ bigimg: "/img/washu1.jpg"
   * Summer 2018 <a href="https://yongkwangk.github.io/files/Kim_U of H course evaluation.pdf" target="_blank">[Teaching Evaluation]</a>
    
 * POLS 3316 Statistics for Political Analysis
-  * Spring 2020
+  * Spring 2020 <a href="https://yongkwangk.github.io/files/3316 2020 Spring.pdf" target="_blank">[Teaching Evaluation]</a>
   * Fall 2019 <a href="https://yongkwangk.github.io/files/3316 2019 kim.pdf" target="_blank">[Teaching Evaluation]</a>
   
 #### Laboratory Instructor

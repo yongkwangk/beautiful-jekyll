@@ -16,8 +16,8 @@ bigimg: "/img/washu1.jpg"
    
 * POLS 3316 Statistics for Political Analysis
   * Fall 2019 <a href="https://yongkwangk.github.io/files/3316 fall 2019.pdf" target="_blank">[Teaching Evaluation]</a>
-  * Spring 2020 <a href="https://yongkwangk.github.io/files/3316 spring 2020 Spring.pdf" target="_blank">[Teaching Evaluation]</a>
-  * Spring 2021 <a href="https://yongkwangk.github.io/files/3316 2021 Spring.pdf" target="_blank">[Teaching Evaluation]</a>
+  * Spring 2020 <a href="https://yongkwangk.github.io/files/3316 spring 2020.pdf" target="_blank">[Teaching Evaluation]</a>
+  * Spring 2021 <a href="https://yongkwangk.github.io/files/3316 spring 2021.pdf" target="_blank">[Teaching Evaluation]</a>
   
 #### Laboratory Instructor
 * POLS 6481 Quantitative Methods II 

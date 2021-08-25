@@ -16,6 +16,8 @@ Scott Clifford, Yongkwang Kim, and Brian Sullivan. 2020. "An Improved Question F
 
 Misperception, Ignorance, and Partisan Ambivalence (with Scott Basinger)
 
+Estimating the Effects of Believing Conspiracy Theories (with Scott Basinger)
+
 Re-interpreting "don't know" and scale midpoint responses in conspiracy beliefs (with Scott Clifford and Brian Sullivan)
 
 Voting machine conspiracy: Election integrity, information seeking and sharing

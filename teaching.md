@@ -34,6 +34,8 @@ bigimg: "/img/washu1.jpg"
   * Spring 2018, Spring 2019
 
 #### *Undergraduate Level*
+* Task Force TA for developing and compiling in-class activities and high-quality video/animation clips for a mandatory intro to American government sequence
+  * Fall 2017
 * POLS 3316 Statistics for Political Analysis 
   * Scott Basinger
   * Fall 2016, Spring 2017, Spring 2018

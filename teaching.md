@@ -11,14 +11,13 @@ bigimg: "/img/washu1.jpg"
 * POLS 3312 Introduction to Research Methods in Political Science
   * Spring 2021 <a href="https://yongkwangk.github.io/files/3312 spring 2021.pdf" target="_blank">[Teaching Evaluation]</a>
   * Fall 2020 <a href="https://yongkwangk.github.io/files/3312 fall 2020 1.pdf" target="_blank">[Teaching Evaluation]</a>
-  * Spring 2020 <a href="https://yongkwangk.github.io/files/3312 spring 2020.pdf" target="_blank">[Teaching Evaluation]</a>
-  * Fall 2019 <a href="https://yongkwangk.github.io/files/3312 2019 kim.pdf" target="_blank">[Teaching Evaluation]</a>
-  * Summer 2018 <a href="https://yongkwangk.github.io/files/Kim_U of H course evaluation.pdf" target="_blank">[Teaching Evaluation]</a>
+  * Fall 2019 <a href="https://yongkwangk.github.io/files/3312 fall 2019.pdf" target="_blank">[Teaching Evaluation]</a>
+  * Summer 2018 <a href="https://yongkwangk.github.io/files/3312 summer 2018.pdf" target="_blank">[Teaching Evaluation]</a>
    
 * POLS 3316 Statistics for Political Analysis
-  * Fall 2019 <a href="https://yongkwangk.github.io/files/3316 2019 kim.pdf" target="_blank">[Teaching Evaluation]</a>
-  * Spring 2020 <a href="https://yongkwangk.github.io/files/3316 2020 Spring.pdf" target="_blank">[Teaching Evaluation]</a>
-  * Spring 2021 <a href="https://yongkwangk.github.io/files/3316 2020 Spring.pdf" target="_blank">[Teaching Evaluation]</a>
+  * Fall 2019 <a href="https://yongkwangk.github.io/files/3316 fall 2019.pdf" target="_blank">[Teaching Evaluation]</a>
+  * Spring 2020 <a href="https://yongkwangk.github.io/files/3316 spring 2020 Spring.pdf" target="_blank">[Teaching Evaluation]</a>
+  * Spring 2021 <a href="https://yongkwangk.github.io/files/3316 2021 Spring.pdf" target="_blank">[Teaching Evaluation]</a>
   
 #### Laboratory Instructor
 * POLS 6481 Quantitative Methods II 

@@ -71,7 +71,7 @@ author:
 social-network-links:
  email: "adamk.summa@gmail.com"
  twitter: Yongkwangk
- googlescholar: PwDpxtEAAAAJ&hl
+ google_scholar: PwDpxtEAAAAJ&hl
  #google-plus: PwDpxtEAAAAJ
 # rss: true
 # facebook: deanattali
@@ -92,7 +92,7 @@ social-network-links:
 footer-links-active:
   email: true
   twitter: true
-  googlescholar: true
+  google_scholar: true
   #google-plus: true
  
 

@@ -1,1 +1,1 @@
-Yongkwang Kim | PhD Candidate
+Yongkwang Kim | PhD 

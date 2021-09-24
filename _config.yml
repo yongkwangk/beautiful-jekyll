@@ -100,6 +100,8 @@ social-network-links:
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
+<ul class="list-inline text-center footer-links">
+
 {%- if site.social-network-links.google-scholar -%}
   <li class="list-inline-item">
     <a href="https://scholar.google.com/{{ site.social-network-links.google-scholar }}" title="Google Scholar">

@@ -14,7 +14,7 @@ facebook:
 google-scholar:
   name: "Google Scholar"
   baseURL: "https://scholar.google.com/"
-  icon: "fa-googlescholar"
+  icon: "fa-google-scholar"
 
 github:
   name: "GitHub"

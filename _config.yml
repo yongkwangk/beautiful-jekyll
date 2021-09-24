@@ -84,7 +84,8 @@ social-network-links:
  email: "adamk.summa@gmail.com"
  twitter: Yongkwangk
  google-scholar: "https://scholar.google.com/citations?user=PwDpxtEAAAAJ&hl=en"
- #google-plus: PwDpxtEAAAAJ
+ google-plus: PwDpxtEAAAAJ&hl
+ #google-plus: PwDpxtEAAAAJ&hl
 # rss: true
 # facebook: deanattali
 # github: daattali

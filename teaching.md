@@ -23,6 +23,7 @@ bigimg: "/img/washu1.jpg"
 * POLS 6481 Quantitative Methods II 
   * Spring 2019
   * Spring 2018
+ 
 #### Graduate Teaching Assistantships 
 #### *Graduate Level*
 * POLS 6482 Maximum Likelihood Estimation 

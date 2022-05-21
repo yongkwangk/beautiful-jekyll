@@ -8,7 +8,7 @@ bigimg: "/img/washu1.jpg"
 
 ### University of Houston
 #### Instructor of Record   
-* POLS 3312 Introduction to Research Methods in Political Science
+* POLS 3312 Research Methods in Political Science
   * Spring 2021 <a href="https://yongkwangk.github.io/files/3312 spring 2021.pdf" target="_blank">[Teaching Evaluation]</a>
   * Fall 2020 <a href="https://yongkwangk.github.io/files/3312 fall 2020 1.pdf" target="_blank">[Teaching Evaluation]</a>
   * Fall 2019 <a href="https://yongkwangk.github.io/files/3312 fall 2019.pdf" target="_blank">[Teaching Evaluation]</a>

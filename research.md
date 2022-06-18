@@ -12,7 +12,7 @@ Yongkwang Kim. 2019. "How Conspiracy Theories Can Stimulate Political Engagement
 
 Scott Clifford, Yongkwang Kim, and Brian Sullivan. 2020. "An Improved Question Format for Measuring Conspiracy Beliefs." *Public Opinion Quarterly*. [[Link]](https://doi.org/10.1093/poq/nfz049)
 
-# Working papers
+# Selected Working papers
 
 Misperception, Ignorance, and Partisan Ambivalence (with Scott Basinger)
 

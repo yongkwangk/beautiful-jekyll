@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Yongkwang Kim, Ph.D.
+title: Yongkwang Kim
 subtitle: Political Scientist
 use-site-title: true
 bigimg:

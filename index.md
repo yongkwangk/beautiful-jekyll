@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Yongkwang Kim
-subtitle: PhD, University of Houston
+title: Yongkwang Kim, Ph.D.
+subtitle: Political Scientist
 use-site-title: true
 bigimg:
   - "/img/HD.jpg": "Downtown Houston"

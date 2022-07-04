@@ -11,7 +11,7 @@ description: Political Science
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "https://yongkwangkimus.github.io"
+url: "https://yongkwangk.github.io"
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -20,7 +20,7 @@ url: "https://yongkwangkimus.github.io"
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "https://yongkwangkimus.github.io/"
+  Home: "https://yongkwangk.github.io/"
   Research: "research"
   Teaching: "teaching"
   CV: "cv"

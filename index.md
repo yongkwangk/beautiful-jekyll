@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Yongkwang Kim
-subtitle: Visiting Assistant Professor of American Politics/ Bucknell University
+subtitle: Visiting Assistant Professor of American Politics
+Bucknell University
 use-site-title: true
 bigimg:
   - "/img/HD.jpg": "Downtown Houston"

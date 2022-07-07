@@ -5,6 +5,8 @@ description: Overview of my teaching experience as an instructor and teaching as
 use-mix-title: true
 bigimg: "/img/washu1.jpg"
 ---
+### Bucknell University
+* POLS 140 American Politics
 
 ### University of Houston
 #### Instructor of Record   

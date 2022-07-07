@@ -9,6 +9,7 @@ bigimg: "/img/washu1.jpg"
 * POLS 140 American Politics
   * Fall 2022 
 
+
 ### University of Houston
 #### Instructor of Record   
 * POLS 3312 Research Methods in Political Science

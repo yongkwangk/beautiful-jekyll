@@ -7,6 +7,7 @@ bigimg: "/img/washu1.jpg"
 ---
 ### Bucknell University
 * POLS 140 American Politics
+ * Fall 2022 
 
 ### University of Houston
 #### Instructor of Record   

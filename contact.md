@@ -5,6 +5,7 @@ description: Contact information at the U of H.
 use-mix-title: true
 ---
 
-<p align="center"><b>Address</b><br>University of Houston<br>Department of Political Science, PGH447<br>3551 Cullen Boulevard<br>Houston, TX 77204</p>
+<p align="center"><b>Address</b><br>Bucknell University<br>Department of Political Science, 221 Academic West Building
+<br>One Dent Drive<br>Lewisburg, PA 17837</p>
 
-<p align="center"><b>Email</b><br><a href="mailto:adamk.summa@gmail.com">adamk.summa@gmail.com</a></p>
+<p align="center"><b>Email</b><br><a href="mailto:y.kim@bucknell.edu">adamk.summa@gmail.com</a></p>

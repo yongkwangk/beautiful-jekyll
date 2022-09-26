@@ -9,6 +9,9 @@ bigimg: "/img/washu1.jpg"
 * POLS 140 American Politics
   * Fall 2022 
 
+* POLS 290 Political Misinformation and Conspiracy Theories
+* POLS 296 Quantitative Methods
+
 
 ### University of Houston
 #### Instructor of Record   

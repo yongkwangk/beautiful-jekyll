@@ -8,9 +8,10 @@ bigimg: "/img/washu1.jpg"
 ### Bucknell University
 * POLS 140 American Politics
   * Fall 2022 
-
 * POLS 290 Political Misinformation and Conspiracy Theories
+  * Spring 2023 
 * POLS 296 Quantitative Methods
+  * Spring 2023
 
 
 ### University of Houston
